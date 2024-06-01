@@ -12,3 +12,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 
+- [ ] subgraph修复
+- [ ] 动态设置参赛国家
+- [ ] 使用token时设置使用cupToken or sepolia token
