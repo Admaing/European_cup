@@ -15,7 +15,7 @@ let ETHERSCAN_API_KEY = "MWN7ESTK7NPMHHPHNN8GW7MMBSNYCEHC3U"
 // console.log(ALCHEMY_KEY);
 console.log(INFURA_KEY);
 console.log(PRIVATE_KEY);
-console.log(ETHERSCAN_API_KEY);
+// console.log(ETHERSCAN_API_KEY);
 
 const config: HardhatUserConfig = {
     // solidity: "0.8.9",
